@@ -23,7 +23,7 @@ for carro in carros:
 
 print('----------')
 
-carros = ['gol', 'celta', 'ferrare']
+carros = ['gol', 'celta', 'Hb20']
 
 for indice, carro in enumerate(carros):
     print(f'{indice}: {carros[2]}')
