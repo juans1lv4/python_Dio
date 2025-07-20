@@ -21,4 +21,4 @@ for _ in range(n):
 
 # Exibe os grupos organizados
 for tema, participantes in eventos.items():
-    print(f"{tema}: {', '.join(participantes)}")        
+    print(f"{tema}: {', '.join(participantes)}")
