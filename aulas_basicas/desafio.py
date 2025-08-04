@@ -24,8 +24,4 @@ else:
 
 
 
-
-
-    
-
 # TODO: Aplique o desconto se o cupom for válido:
